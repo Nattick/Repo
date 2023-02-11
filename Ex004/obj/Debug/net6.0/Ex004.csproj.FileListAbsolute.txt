@@ -1,0 +1,15 @@
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/bin/Debug/net6.0/Ex004
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/bin/Debug/net6.0/Ex004.deps.json
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/bin/Debug/net6.0/Ex004.runtimeconfig.json
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/bin/Debug/net6.0/Ex004.dll
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/bin/Debug/net6.0/Ex004.pdb
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/obj/Debug/net6.0/Ex004.csproj.AssemblyReference.cache
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/obj/Debug/net6.0/Ex004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/obj/Debug/net6.0/Ex004.AssemblyInfoInputs.cache
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/obj/Debug/net6.0/Ex004.AssemblyInfo.cs
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/obj/Debug/net6.0/Ex004.csproj.CoreCompileInputs.cache
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/obj/Debug/net6.0/Ex004.dll
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/obj/Debug/net6.0/refint/Ex004.dll
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/obj/Debug/net6.0/Ex004.pdb
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/obj/Debug/net6.0/Ex004.genruntimeconfig.cache
+/Users/nataliakonovalova/Desktop/Repo/Examples/Ex004/obj/Debug/net6.0/ref/Ex004.dll
